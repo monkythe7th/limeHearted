@@ -1,0 +1,16 @@
+{
+	"name": "Lime Hearted",
+	"short_name": "LimeHearted",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#f4f4f5",
+	"theme_color": "#f9f9f9",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "assets/imgs/LimeHearted_logo.png",
+			"type": "png",
+			"size": "45x50"
+		}
+	]
+}

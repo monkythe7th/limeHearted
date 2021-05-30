@@ -1,0 +1,37 @@
+<section class="section section1" id="">
+	<img src="assets/imgs/LimeHearted/Wild_Cat_Sweatshirt_-_Unisex_for_Boys_and_Girls.jpeg" alt="header img" class="img">
+	<h1>Text Here</h1>
+	<h2>Text Here</h2>
+</section>
+<section class="section section2 category clear" id="category">
+	<h4>Explore by Category</h4>
+	<span class="l"></span>
+	<div class="cat left">
+		<a href="">
+			<img src="assets/imgs/LimeHearted/eye-for-ebony-UzomZB3cz-I-unsplash.jpg" alt="new release" class="cat__img">
+			<p class="cat__name">New Releases</p>
+		</a>
+	</div>
+	<div class="cat left">
+		<a href="">
+			<img src="assets/imgs/LimeHearted/Adelisa_Co_s_leather_Paseo_boots_for_toddlers….png" alt="Kids" class="cat__img">
+			<p class="cat__name">Babies</p>
+		</a>
+	</div>
+	<div class="cat left">
+		<a href="">
+			<img src="assets/imgs/LimeHearted/Esta_fashionista_mirim_faz_combinacoes_que_todas_nos_usariamos_-_Revista_Glamour_Tendencias.jpeg" alt="babies" class="cat__img">
+			<p class="cat__name">Kids</p>
+		</a>
+	</div>
+</section>
+<section class="section section3 recent clear" id="recent">
+	<h2 class="left">Seen Recently</h2>
+	<p class="more right">See More</p>
+	<span class="l"></span>
+</section>
+<section class="section section4 new clear" id="new">
+	<h2 class="left">newly Added</h2>
+	<p class="more right">See more</p>
+	<span class="l"></span>
+</section>

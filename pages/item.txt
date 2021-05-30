@@ -1,0 +1,10 @@
+<div class="item left">
+	<a href="">
+		<div class="img__holder">
+			<img alt="" ><span class="abs like"></span>
+		</div>
+		<h3 class="item--title">Title Here</h3>
+		<p class="price">R0000</p>
+		<p class="rate"></p>
+	</a>
+</div>
